@@ -1,0 +1,64 @@
+body{
+    background-color: black;
+    color: white;
+    background-image: linear-gradient(to right,black,rgb(177, 236, 251));
+}
+.cont{
+    border: 1px solid white;
+    background-color:rgb(175, 199, 199);
+    color: black;
+    width: 450px;
+    height: 300px;
+    padding: 15px;
+    position: relative;
+    left: 500px;
+    top: 100px;
+    box-shadow: 5px 5px 5px gray;
+    /* background-image: linear-gradient(black,rgb(145, 220, 252)); */
+}
+#txt1{
+    position: relative;
+    left: 100px;
+}
+#txt2{
+    position:relative;
+    left: 14px;
+}
+#txt3{
+    position: relative;
+    left:95px
+}
+#txt4{
+    position: relative;
+    left: 90px;
+}
+#img01{
+    position: relative;
+    height: 30px;
+    width:30px;
+    border-radius: 8px;
+}
+#img02{
+    position: relative;
+    height: 30px;
+    width:30px;
+    left: 40px;
+    bottom: 34px;
+    border-radius: 2px;
+}
+#img03{
+    position: relative;
+    height: 30px;
+    width:30px;
+    left: 80px;
+    bottom: 68px;
+    border-radius: 1px;
+}
+#txt01{
+ color: black;
+}
+#txt01:hover{
+    background-color:rgb(150, 227, 250);
+    color: black;
+    box-shadow: 3px 3px 3px gray;
+}

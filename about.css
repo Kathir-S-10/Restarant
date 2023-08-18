@@ -1,0 +1,50 @@
+body{
+    background-color: black;
+    color: white;
+    margin: 0;
+    
+}
+a{
+    color: rgb(255, 255, 255);
+    position: relative;
+    left:1300px;
+    width: fit-content;
+}
+h3{
+    position: relative;
+    font-style: italic;
+    text-align: justify;
+    width: fit-content;
+    
+}
+p{
+    font-size: x-large;
+    width: fit-content;
+}
+.cont{
+    display: grid;
+    grid-template-columns: 340px 350px 10px;
+    position: relative;
+    left: 60px;
+    width: fit-content;
+    column-gap: 100px;
+}
+#img01{
+    position: relative;
+    right: 1300px;
+    height: 250px;
+    width: 250px;
+    border: 1px solid white;
+}
+#img02{
+    position: relative;
+    height: 250px;
+    width: 250px;
+    border: 1px solid white;
+}
+#img03{
+    position: relative;
+    height: 250px;
+    width: 250px;
+    border: 1px solid white;
+}

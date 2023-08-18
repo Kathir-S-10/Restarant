@@ -1,0 +1,86 @@
+/* body{
+    background-color:black;
+    color:white;
+} */
+body{
+    background-color: black;
+    color: white;
+    background-image: linear-gradient(to right,black,rgb(177, 236, 251));
+}
+.forms{
+    border: 1px solid white;
+    height:300px;
+    width:500px;
+    position: relative;
+    left:500px;
+    box-shadow: 6px 9px 9px gray;
+    /* background-color:rgb(201, 232, 139); */
+    background-color:rgb(175, 199, 199);
+    color: black;
+    opacity: 0.8;
+
+}
+#txt2{
+    position: relative;
+    left: 30px;
+    height: 50px;
+}
+#pics{
+    position: relative;
+    height: 30px;
+    width: 30px;
+    top: 100px;
+    left:0;
+    border-radius: 6px;
+}
+#pics:hover{
+    box-shadow: 5px 5px 5px gray;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 6px;
+}
+#pics01{
+    position: relative;
+    height: 30px;
+    width: 30px;
+    top: 100px;
+    left: 10px;
+    border-radius: 6px;
+}
+#pics01:hover{
+    box-shadow: 5px 5px 5px gray;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 6px;
+}
+#pics02{
+    position: relative;
+    height: 30px;
+    width: 30px;
+    top: 100px;
+    left: 20px;
+    border-radius: 6px;
+}
+#pics02:hover{
+    box-shadow: 5px 5px 5px gray;
+    border: 1px solid rgb(255, 255, 255);
+    border-radius: 6px;
+}
+.foot{
+    position: relative;
+    top: 20px;
+}
+#txt01{
+    position: relative;
+    right:200px;
+    color: black;
+}
+#txt01:hover{
+    background-color: rgb(178, 246, 246);
+}
+#sub{
+    box-shadow: 3px 3px 3px gray;
+}
+#sub:hover{
+    background-color: aquamarine;
+    border: 1px solid white;
+    border-radius: 4px;
+}

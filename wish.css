@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(247, 255, 255);
+}
+h1{
+    font-size: x-large;
+    border: 1px solid black;
+    width: fit-content;
+    position: relative;
+    left: 530px;
+    top: 200px;
+    border-radius: 2px;
+    font-style: italic;
+    box-shadow: 2px 2px 2px gray;
+}
+#icon{
+    position: relative;
+    top:120px ;
+    left:850px ;
+    height: 30px;
+    width: 30px;
+    border: 1px solid black;
+}
+
+
+marquee{
+    position: relative;
+    top: 180px;
+    left: 500px;
+    width: 310px;
+    border-bottom: 1px solid black;
+}
+img{
+    position: relative;
+    top: 10px;
+    height: 60px;
+    width: 60px;
+}
